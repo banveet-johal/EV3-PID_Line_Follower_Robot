@@ -1,4 +1,4 @@
-## EV3-PID_Line_Follower_C
+## EV3-PID_Line_Follower
 
  Line-Tracking Robot designed with **PID algorithm** to perform the following: (Used Lego EV3 **Mindstorms** Parts and programmed in **C** language and **Python**.)
  
