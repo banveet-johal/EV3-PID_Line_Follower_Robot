@@ -16,4 +16,4 @@ If the line is green:
 If the line is blue:
    1. it turns 180 degrees and move backward to the start point of the path. 
 
-![Model](https://github.com/banveet-johal/EV3-PID_Line_Follower_C/blob/main/image/robot.png)
+![Model](https://github.com/banveet-johal/EV3-PID_Line_Follower_C/blob/main/image/robot.PNG)
